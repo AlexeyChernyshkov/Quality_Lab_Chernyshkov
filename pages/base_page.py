@@ -8,3 +8,4 @@ class BasePage:
 
     def get(self):
         self.browser.get(self.url)
+
